@@ -5,10 +5,19 @@
 
 }
 body {
-  background-image: url(./components/bkimg.jpg);
-
+  
   font-family: "poppins", sans-serif;
   
+}
+.background {
+  background-image: url(./components/back1.jpg);
+  height: 45rem;
+
+
+}
+.content{
+  font-size: 30px;
+  margin-top: 200px;
 }
 
 
